@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include <vector>
+#include <vector> //test
 #include <string>
 
 void initAllLights (std::vector<bool> &v);
